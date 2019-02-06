@@ -1,0 +1,67 @@
+[30-Jan-2019 17:07:24 UTC] PHP Warning:  require_once(../elements/signup-login-forms.php): failed to open stream: No such file or directory in /home/eatsandwichescol/public_html/views/sandwiches/index.php on line 14
+[30-Jan-2019 17:07:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../elements/signup-login-forms.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/eatsandwichescol/public_html/views/sandwiches/index.php on line 14
+[30-Jan-2019 17:32:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/eatsandwichescol/public_html/core/db.php on line 14
+[30-Jan-2019 17:44:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 19
+[30-Jan-2019 17:44:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 19
+[30-Jan-2019 17:44:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 19
+[30-Jan-2019 17:44:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 19
+[30-Jan-2019 17:45:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:45:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, integer given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, integer given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 17:48:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/eatsandwichescol/public_html/core/db.php on line 18
+[30-Jan-2019 18:14:05 UTC] PHP Warning:  move_uploaded_file(/home/eatsandwichescol/public_html/views/assets/files/1548872045longroll001.jpg): failed to open stream: No such file or directory in /home/eatsandwichescol/public_html/core/util.php on line 56
+[30-Jan-2019 18:14:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAufVaw' to '/home/eatsandwichescol/public_html/views/assets/files/1548872045longroll001.jpg' in /home/eatsandwichescol/public_html/core/util.php on line 56
+[31-Jan-2019 10:14:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 5
+[31-Jan-2019 10:15:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 5
+[31-Jan-2019 10:15:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_by_id() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 6
+[31-Jan-2019 10:16:33 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_by_id() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 6
+[31-Jan-2019 10:19:43 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_by_id() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 6
+[31-Jan-2019 10:19:52 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_by_id() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 6
+[31-Jan-2019 10:21:07 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_by_id() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 6
+[31-Jan-2019 10:21:15 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_by_id() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 6
+[31-Jan-2019 10:25:24 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/sandwiches/edit.php on line 63
+[31-Jan-2019 10:50:18 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::check_ownership() in /home/eatsandwichescol/public_html/models/sandwich.php:126
+Stack trace:
+#0 /home/eatsandwichescol/public_html/views/sandwiches/edit.php(9): Sandwich->edit(8)
+#1 {main}
+  thrown in /home/eatsandwichescol/public_html/models/sandwich.php on line 126
+[31-Jan-2019 11:13:51 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::delete() in /home/eatsandwichescol/public_html/views/sandwiches/delete.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/sandwiches/delete.php on line 4

@@ -1,0 +1,56 @@
+[24-Jan-2019 18:35:01 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/eatsandwichescol/public_html/views/users/signup.php on line 1
+[24-Jan-2019 18:35:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/eatsandwichescol/public_html/views/users/signup.php on line 1
+[25-Jan-2019 21:57:20 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/eatsandwichescol/public_html/views/users/login.php on line 1
+[25-Jan-2019 21:57:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/eatsandwichescol/public_html/views/users/login.php on line 1
+[25-Jan-2019 21:58:03 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/eatsandwichescol/public_html/views/users/login.php on line 1
+[25-Jan-2019 21:58:03 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/eatsandwichescol/public_html/views/users/login.php on line 1
+[29-Jan-2019 18:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/eatsandwichescol/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/login.php on line 6
+[29-Jan-2019 20:08:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eatsandwichescol/public_html/elements/html_head.php:1) in /home/eatsandwichescol/public_html/views/users/signup.php on line 22
+[29-Jan-2019 20:09:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eatsandwichescol/public_html/elements/html_head.php:1) in /home/eatsandwichescol/public_html/views/users/signup.php on line 22
+[29-Jan-2019 20:09:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eatsandwichescol/public_html/elements/html_head.php:1) in /home/eatsandwichescol/public_html/views/users/signup.php on line 22
+[29-Jan-2019 20:09:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eatsandwichescol/public_html/elements/html_head.php:1) in /home/eatsandwichescol/public_html/views/users/signup.php on line 22
+[29-Jan-2019 20:10:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/eatsandwichescol/public_html/views/users/signup.php on line 21
+[29-Jan-2019 21:12:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function empy() in /home/eatsandwichescol/public_html/views/users/saved.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/saved.php on line 22
+[29-Jan-2019 21:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function empy() in /home/eatsandwichescol/public_html/views/users/saved.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/saved.php on line 22
+[29-Jan-2019 21:26:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eatsandwichescol/public_html/views/users/saved.php on line 197
+[29-Jan-2019 22:19:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eatsandwichescol/public_html/elements/html_head.php:1) in /home/eatsandwichescol/public_html/views/users/edit.php on line 11
+[04-Feb-2019 23:08:35 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/eatsandwichescol/public_html/views/users/add.php on line 29
+[05-Feb-2019 13:30:09 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 175
+[05-Feb-2019 13:30:13 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 175
+[05-Feb-2019 13:31:12 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 175
+[05-Feb-2019 13:33:23 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 181
+[05-Feb-2019 13:35:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined function get_by_id() in /home/eatsandwichescol/public_html/views/users/submitted.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/submitted.php on line 67
+[05-Feb-2019 13:39:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined function get_by_id() in /home/eatsandwichescol/public_html/views/users/submitted.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/submitted.php on line 66
+[05-Feb-2019 13:43:52 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined function get_by_id() in /home/eatsandwichescol/public_html/views/users/submitted.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/submitted.php on line 66
+[05-Feb-2019 13:53:58 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined function get_by_id() in /home/eatsandwichescol/public_html/views/users/submitted.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/users/submitted.php on line 71
+[05-Feb-2019 13:54:42 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 76
+[05-Feb-2019 13:55:56 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 76
+[06-Feb-2019 12:18:52 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 70
+[06-Feb-2019 12:21:34 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 69
+[06-Feb-2019 12:22:17 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 69
+[06-Feb-2019 12:44:44 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 69
+[06-Feb-2019 20:46:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eatsandwichescol/public_html/views/users/submitted.php on line 228
+[06-Feb-2019 12:48:05 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 71
+[06-Feb-2019 12:52:01 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 71
+[06-Feb-2019 12:52:12 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/eatsandwichescol/public_html/views/users/submitted.php on line 71

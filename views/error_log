@@ -1,0 +1,40 @@
+[30-Jan-2019 13:02:25 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function get_all() on null in /home/eatsandwichescol/public_html/views/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 83
+[30-Jan-2019 13:05:05 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function get_all() on null in /home/eatsandwichescol/public_html/views/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 83
+[30-Jan-2019 13:05:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function get_all() on null in /home/eatsandwichescol/public_html/views/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 83
+[30-Jan-2019 13:05:28 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_all() in /home/eatsandwichescol/public_html/views/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 83
+[30-Jan-2019 13:05:34 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Sandwich::get_all() in /home/eatsandwichescol/public_html/views/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 83
+[01-Feb-2019 09:25:14 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/eatsandwichescol/public_html/views/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 8
+[01-Feb-2019 09:35:28 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/eatsandwichescol/public_html/views/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 8
+[01-Feb-2019 09:35:32 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/eatsandwichescol/public_html/views/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 8
+[01-Feb-2019 09:37:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/eatsandwichescol/public_html/views/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 8
+[01-Feb-2019 09:37:59 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/eatsandwichescol/public_html/views/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eatsandwichescol/public_html/views/index.php on line 8
